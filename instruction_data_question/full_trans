@@ -1,0 +1,100 @@
+Can you identify and then translate all the text in this image from <src_lang> to <tgt_lang>?  
+First detect the text in the image, then provide a translation from <src_lang> to <tgt_lang>.  
+Please extract all written content in <src_lang> and convert it to <tgt_lang>.  
+Recognize the text in the image and translate everything into <tgt_lang>.  
+Could you read the text from the image and rewrite it in <tgt_lang>?  
+I need a translation of all visible <src_lang> text in the image into <tgt_lang>.  
+Scan the image for any text and translate it into <tgt_lang>.  
+Find all the text in <src_lang> and provide its equivalent in <tgt_lang>.  
+Detect all written information and translate it from <src_lang> to <tgt_lang>.  
+Could you recognize every text string and translate it into <tgt_lang>?  
+Identify all <src_lang> elements in the image and convert them to <tgt_lang>.  
+First recognize, then translate everything from <src_lang> to <tgt_lang>.  
+Please extract and translate all the text found in the image from <src_lang> to <tgt_lang>.  
+Can you interpret the image’s text and provide a translation in <tgt_lang>?  
+Read the text from the image and output it in <tgt_lang>.  
+Look for all <src_lang> text in this image and translate it into <tgt_lang>.  
+Recognize the characters in the image and translate them from <src_lang> into <tgt_lang>.  
+Translate all detected text in the image from <src_lang> to <tgt_lang>.  
+Can you first OCR this image and then translate the result into <tgt_lang>?  
+Identify all textual parts and rewrite them in <tgt_lang>.  
+Translate everything in the image from <src_lang> to <tgt_lang>, starting with text recognition.  
+Detect and interpret all text and translate it into <tgt_lang>.  
+I need both recognition and translation of all text in this image from <src_lang> into <tgt_lang>.  
+Please perform OCR and convert the text to <tgt_lang>.  
+Could you do a full scan and translation of this image’s text from <src_lang> into <tgt_lang>?  
+Look through the image for any text, then translate it from <src_lang> into <tgt_lang>.  
+Recognize and then rewrite all the image text into <tgt_lang>.  
+Extract the text in <src_lang>, then output it in <tgt_lang>.  
+Translate the image’s content from <src_lang> into <tgt_lang> after identifying all text in it.  
+First find the words, then translate them from <src_lang> to <tgt_lang>.  
+I’d like a full text recognition and translation of the image from <src_lang> into <tgt_lang>.  
+Could you read the content in <src_lang> and rewrite it in <tgt_lang>?  
+Recognize every bit of text and give me the <tgt_lang> version.  
+Please find and convert all the text in this image from <src_lang> into <tgt_lang>.  
+Can you do text detection and translation from <src_lang> to <tgt_lang>?  
+Recognize and translate all visible language elements from <src_lang> into <tgt_lang>.  
+Translate any text you can find from <src_lang> into <tgt_lang> in this image.  
+First OCR the image, then translate all readable text into <tgt_lang>.  
+Extract all words and give their <tgt_lang> equivalents.  
+Please convert the full text into <tgt_lang> after recognizing it in <src_lang>.  
+Can you identify and then rewrite the content of the image in <tgt_lang>?  
+I’d like all the image’s language translated from <src_lang> into <tgt_lang> after recognition.  
+Detect and translate each visible phrase from <src_lang> into <tgt_lang> in the image.  
+Find the written portions and change them to <tgt_lang>.  
+Analyze the image for <src_lang> text and return the translation in <tgt_lang>.  
+Look for any text in the image and translate it from <src_lang> into <tgt_lang>.  
+Can you process the image text from recognition to translation from <src_lang> into <tgt_lang>?  
+Please identify any text and give its <tgt_lang> version.  
+Recognize the words and rephrase them in <tgt_lang>.  
+Translate everything written in this image to <tgt_lang> after detecting it.  
+Could you perform OCR and provide a translation from <src_lang> into <tgt_lang>?  
+I need all readable text in <tgt_lang>.  
+First find what’s written, then translate it from <src_lang> into <tgt_lang>.  
+Get every line of text and translate it from <src_lang> to <tgt_lang>.  
+Please detect and convert all signs and labels from <src_lang> into <tgt_lang>.  
+Extract all letters and provide their translated meaning from <src_lang> into <tgt_lang>.  
+Scan for readable content and output it in <tgt_lang>.  
+Can you translate what’s written in this image from <src_lang> into <tgt_lang>?  
+Recognize and interpret all text into <tgt_lang>.  
+Could you detect and translate all the captions from <src_lang> into <tgt_lang>?  
+Provide a full translation from <src_lang> into <tgt_lang> based on text you find in the image.  
+Analyze and convert the image text into <tgt_lang>.  
+Translate everything from <src_lang> into <tgt_lang> once it's detected.  
+Look at the image, find text, and translate to <tgt_lang>.  
+OCR the image and output translation from <src_lang> into <tgt_lang>.  
+Detect the script and rewrite it from <src_lang> into <tgt_lang>.  
+Translate all visible elements from the image into <tgt_lang>.  
+Recognize the image’s text layer and convert it to <tgt_lang>.  
+I need a visual scan and translation of this image from <src_lang> into <tgt_lang>.  
+Interpret all <src_lang> writing in the image and translate it into <tgt_lang>.  
+Find every label or sentence and render it in <tgt_lang>.  
+Please analyze the image for words and convert them from <src_lang> into <tgt_lang>.  
+Translate all recognizable text from image from <src_lang> into <tgt_lang>.  
+Identify every text piece and translate from <src_lang> to <tgt_lang>.  
+Read what’s in the image and provide a translated version from <src_lang> into <tgt_lang>.  
+Extract the text content and give a version in <tgt_lang>.  
+Translate from <src_lang> into <tgt_lang> after reading the image text.  
+Recognize all written lines and output them in <tgt_lang>.  
+Can you find and rephrase all the text from <src_lang> into <tgt_lang>?  
+Provide a textual analysis and translate into <tgt_lang>.  
+Please convert recognized phrases in this image from <src_lang> into <tgt_lang>.  
+OCR and translate the embedded text in the picture from <src_lang> into <tgt_lang>.  
+Detect the words and translate all into <tgt_lang>.  
+Read the entire image and translate every written word from <src_lang> into <tgt_lang>.  
+Extract and translate all visual language components from <src_lang> into <tgt_lang>.  
+I need a word-by-word translation from <src_lang> into <tgt_lang> of all image content.  
+Find and convert every word from <src_lang> into <tgt_lang> from this image.  
+Translate every sentence from <src_lang> into <tgt_lang> after identifying it.  
+Read everything written and switch it to <tgt_lang>.  
+Could you parse the image and return a translation from <src_lang> into <tgt_lang>?  
+Recognize, extract, and translate each line from <src_lang> into <tgt_lang>.  
+Process this image for content and render it  from <src_lang> into <tgt_lang>.  
+Translate anything you can read from <src_lang> to <tgt_lang>.  
+Capture all the language and give it to me in <tgt_lang>.  
+Extract all visible text and offer its <tgt_lang> meaning.  
+Please rewrite everything you read from this image into <tgt_lang>.  
+Read and convert each bit of the image text from <src_lang> into <tgt_lang>.  
+Translate all found text from <src_lang> into <tgt_lang>.  
+Detect and rephrase the image’s text  from <src_lang> into <tgt_lang>.  
+Do a full text read of the image and return the translation in <tgt_lang>.

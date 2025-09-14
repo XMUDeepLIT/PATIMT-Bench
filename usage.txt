@@ -1,0 +1,16 @@
+
+1. instruction_tuning_data.py
+
+    Converting the output of gpt-api-label.py into training format for different baseline models.
+
+2. eval_translation.py
+
+    Evaluation of the output of each model, including BLEU score, COMET score and IoU score
+
+3. to_eval_format.py
+
+    Code to generate test prompt and answer for each sample in given format(e.g. qwen25_vl)
+
+4. ./instruction_data_question/
+
+    GPT-generated question template pool for region-specific translation and full-image translation with grounding, each file contains 100 diverse questions.
